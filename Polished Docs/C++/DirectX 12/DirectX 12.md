@@ -8,3 +8,4 @@ This section contains notes on the DirectX 12 API.
 - [[Subpages/HLSL Operations]]
 - [[Subpages/Pipeline]]
 - [[Subpages/Views]]
+- [[Types/Types]]

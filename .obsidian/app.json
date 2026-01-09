@@ -3,5 +3,6 @@
   "livePreview": false,
   "defaultViewMode": "source",
   "showLineNumber": true,
-  "attachmentFolderPath": "./Attachments"
+  "attachmentFolderPath": "./Attachments",
+  "promptDelete": false
 }

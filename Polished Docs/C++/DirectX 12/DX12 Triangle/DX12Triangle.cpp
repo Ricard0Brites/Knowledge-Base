@@ -422,7 +422,7 @@ void OnRender()
 
     m_commandList->OMSetRenderTargets(1, &rtvHandle, FALSE, nullptr);
 
-    const float clearColor[] = { 0.0f, 0.0f, 0.0f, 0.0f };
+    const float clearColor[] = { 0.0f, 0.0f, 0.0f, 1.0f };
     m_commandList->ClearRenderTargetView(rtvHandle, clearColor, 0, nullptr);
     m_commandList->IASetPrimitiveTopology(D3D_PRIMITIVE_TOPOLOGY_TRIANGLELIST);
     m_commandList->IASetVertexBuffers(0, 1, &m_vertexBufferView);
