@@ -1,7 +1,7 @@
 {
   "waypointFlag": "%% Waypoint %%",
   "landmarkFlag": "%% Landmark %%",
-  "stopScanAtFolderNotes": false,
+  "stopScanAtFolderNotes": true,
   "showFolderNotes": true,
   "showNonMarkdownFiles": true,
   "foldersOnTop": false,
@@ -12,7 +12,7 @@
   "folderNoteType": "INSIDE_FOLDER",
   "folderNoteFilename": "index",
   "ignorePaths": [
-    "_attachments"
+    "Attachments"
   ],
   "useSpaces": false,
   "numSpaces": 2

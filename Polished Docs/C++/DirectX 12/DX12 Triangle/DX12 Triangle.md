@@ -13,9 +13,14 @@ This example demonstrates how to render a simple, colored triangle using the Dir
 
 This documentation explains the C++ code that renders the triangle.
 
-- [[Subpages/Overview]]
-- [[Subpages/Code Structure]]
-- [[Subpages/WinMain]]
-- [[Subpages/OnInit - DirectX 12 Initialization]]
-- [[Subpages/OnRender - The Rendering Loop]]
-- [[Subpages/How to Compile and Run]]
+%% Begin Waypoint %%
+- [[DX12 Triangle]]
+- **Subpages**
+	- [[Code Structure]]
+	- [[How to Compile and Run]]
+	- [[OnInit - DirectX 12 Initialization]]
+	- [[OnRender - The Rendering Loop]]
+	- [[Overview]]
+	- [[WinMain]]
+
+%% End Waypoint %%

@@ -11,6 +11,7 @@ The vault follows a specific structure:
 -   If there is a subfolder, it should point to the main file inside that folder.
 
 ### Formatting
+-   If you want to add "---" at the start of the document you **must** add an enter (breakline) first even if it's empty.
 -   The files should be atomized and should contain `[[wiki-style]]` links.
 -   Any file that contains more than one header should make use of the `automatic-table-of-contents` plugin by inserting:
     ```table-of-contents
@@ -52,3 +53,7 @@ The Dataview plugin allows treating your Obsidian Vault as a database that can b
     -   **Inline Expressions**: DQL expressions embedded directly in markdown (e.g., `= this.file.name`).
     -   **Inline JS Expressions**: JavaScript equivalent for inline execution (e.g., `$= dv.current().file.mtime`).
 -   **Security Note for JavaScript Queries**: These run with the same access level as other Obsidian plugins and can potentially modify, create, or delete files, or make network calls. Use with caution from trusted sources.
+
+### Version Control
+-   If you detect a Version Control System in a project, do not attempt to run any commands with it. This is strictly out of bounds for you unless explicitly instructed otherwise.
+-   If you are explicitly instructed to run a VCS command, you are limited to only run the instructed command. This permission is not persistent, and you are not allowed to use VCS commands thereon after.

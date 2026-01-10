@@ -1,4 +1,3 @@
----
 # Views
 
 In DirectX 12, a "view" is a specific interpretation of resource data. It allows the GPU to understand how to access and use the data stored in a resource, such as a texture or a buffer, in a particular format.

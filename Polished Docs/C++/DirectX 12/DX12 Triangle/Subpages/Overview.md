@@ -1,4 +1,3 @@
----
 # Overview
 
 The code is a minimal, self-contained example of a DirectX 12 application. It performs the following steps:

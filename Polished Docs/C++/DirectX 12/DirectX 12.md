@@ -4,8 +4,11 @@ This section contains notes on the DirectX 12 API.
 
 ## Sub-topics
 
-- [[DX12 Triangle]]
-- [[Subpages/HLSL Operations]]
-- [[Subpages/Pipeline]]
-- [[Subpages/Views]]
-- [[Types/Types]]
+%% Begin Waypoint %%
+- [[DirectX 12]]
+- **[[DX12 Triangle]]**
+- **[[Subpages]]**
+- **[[Types]]**
+- **[[Views]]**
+
+%% End Waypoint %%

@@ -6,7 +6,6 @@
       {
         "id": "5eefb005c6056151",
         "type": "tabs",
-        "dimension": 43.869936034115135,
         "children": [
           {
             "id": "0094c7e749202250",
@@ -14,36 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Notes/Descriptor Heap.md",
+                "file": "Polished Docs/C++/DirectX 12/DX12 Triangle/DX12 Triangle.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Descriptor Heap"
+              "title": "DX12 Triangle"
             },
-            "group": "e9fd6a19356a3c84"
+            "group": "c106c0c89192e0ef"
           }
         ]
       },
       {
-        "id": "00c1da412eea48f0",
+        "id": "098385abc4070365",
         "type": "tabs",
-        "dimension": 56.13006396588486,
         "children": [
           {
-            "id": "38c519b2478c5a09",
+            "id": "add339dbd5626db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Notes/Descriptor Heap.md",
+                "file": "Polished Docs/C++/DirectX 12/DX12 Triangle/DX12 Triangle.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Descriptor Heap"
+              "title": "DX12 Triangle"
             },
-            "group": "e9fd6a19356a3c84"
+            "group": "c106c0c89192e0ef"
           }
         ]
       }
@@ -102,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 417.5
   },
   "right": {
     "id": "e1473b0e3668b472",
@@ -214,15 +211,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "e374e7c296d53884",
+        "id": "52a2cb7b99357375",
         "type": "window",
         "children": [
           {
-            "id": "ec71bd38f88ce9cd",
+            "id": "4a64cd27ffd754ea",
             "type": "tabs",
             "children": [
               {
-                "id": "6b02a484901e2860",
+                "id": "fecf3ca60323cd84",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -235,53 +232,57 @@
           }
         ],
         "direction": "vertical",
-        "x": 2559,
-        "y": 173,
-        "width": 777,
+        "x": 795,
+        "y": 17,
+        "width": 729,
         "height": 992,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "0094c7e749202250",
+  "active": "fecf3ca60323cd84",
   "lastOpenFiles": [
-    "Quick Notes/Attachments/Pasted image 20260110173049.png",
-    "Quick Notes/Attachments",
-    "Polished Docs/C++/DirectX 12/Types/DXGI_MWA_FLAGS.md",
-    "Quick Notes/Descriptor Heap.md",
-    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/Code Structure.md",
-    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/How to Compile and Run.md",
-    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/OnInit - DirectX 12 Initialization.md",
-    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/OnRender - The Rendering Loop.md",
-    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/Overview.md",
-    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/WinMain.md",
     "Polished Docs/C++/DirectX 12/DX12 Triangle/DX12 Triangle.md",
-    "Polished Docs/C++/DirectX 12/Types/DXGI_USAGE.md",
-    "Quick Notes/DXGI_MWA flags.md",
-    "Quick Notes/Render Target.md",
-    "Polished Docs/C++/DirectX 12/Types/D3D12_COMMAND_QUEUE_DESC.md",
-    "Polished Docs/C++/DirectX 12/Types/Types.md",
-    "Polished Docs/C++/DirectX 12/Types/DXGI_FORMAT.md",
-    "Polished Docs/C++/DirectX 12/Types/DXGI_Factories.md",
-    "Polished Docs/C++/DirectX 12/Types/DXGI_Adapters.md",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/Attachments/DX12Triangle.cpp",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/Attachments",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Attachments/DX12Triangle.cpp",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Attachments",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/Overview.md",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/How to Compile and Run.md",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/Code Structure.md",
     "Polished Docs/C++/DirectX 12/DirectX 12.md",
-    "Quick Notes/Type - DXGI_USAGE.md",
-    "Quick Notes/DX12Triangle.cpp",
-    "Polished Docs/C++/DirectX 12/Types",
-    "Quick Notes/Type - D3D12_COMMAND_QUEUE_DESC.md",
-    "Quick Notes/Type - DXGI_FORMAT.md",
-    "Quick Notes/Type - IDCGI Factories.md",
-    "Quick Notes/Type - IDXGI Adapters.md",
-    "Polished Docs/C++/DirectX 12/Subpages/Views.md",
-    "README.md",
-    "Polished Docs/C++/DirectX 12/Subpages/Views",
-    "Polished Docs/C++/Standard Library (std)/Containers",
-    "Polished Docs/Math/Matrix/Subpages",
-    "Polished Docs/Math/Vector",
-    "Polished Docs/Math/Matrix",
-    "Polished Docs/C++/Standard Library (std)/Pointers",
-    "Polished Docs/C++/DirectX 12/DX12 Triangle/DX12Triangle.cpp",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/WinMain.md",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/OnRender - The Rendering Loop.md",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/OnInit - DirectX 12 Initialization.md",
+    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages",
+    "Polished Docs/SSH/SSH.md",
+    "Polished Docs/C++/Standard Library/Standard Library.md",
+    "Polished Docs/C++/C++.md",
+    "Polished Docs/C++/DirectX 12/Views/Subpages/Unordered Access View (UAV).md",
+    "Polished Docs/C++/DirectX 12/Views/Views.md",
+    "Polished Docs/C++/DirectX 12/Views/Views.md",
+    "Polished Docs/C++/DirectX 12/Views/Subpages/Vertex Buffer View (VBV).md",
+    "Polished Docs/SSH/Subpages/File Transfering.md",
+    "Polished Docs/SSH/Subpages",
+    "Polished Docs/C++/DirectX 12/Views/Subpages/Constant Buffer View (CBV).md",
+    "Polished Docs/C++/DirectX 12/Views/Subpages",
+    "Polished Docs/C++/DirectX 12/Types/D3D12_COMMAND_LIST_TYPE.md",
+    "Polished Docs/C++/DirectX 12/Descriptor Heap.md",
+    "Polished Docs/C++/DirectX 12/Subpages/Subpages.md",
+    "Polished Docs/C++/DirectX 12/Subpages/Pipeline.md",
+    "Polished Docs/C++/DirectX 12/Subpages/HLSL Operations.md",
+    "Polished Docs/C++/DirectX 12/Subpages/Descriptor Heap.md",
+    "Polished Docs/C++/DirectX 12/Subpages",
+    "Polished Docs/C++/Language/Language.md",
+    "Polished Docs/SSH/Subpages/Connecting to SSH Server.md",
+    "Polished Docs/C++/DirectX 12/Views",
+    "Polished Docs/C++/DirectX 12/Attachments/Pasted image 20260110173049.png",
+    "Polished Docs/C++/DirectX 12/Attachments/DirectX 12 Pipeline Graph.png",
+    "Polished Docs/C++/DirectX 12/Attachments/3D Game Programming with DirectX 12,  2016, by Frank Luna.pdf",
+    "Polished Docs/C++/DirectX 11/Attachments/Pasted image 20260101214728.png",
+    "Polished Docs/C++/DirectX 12/Subpages/Attachments/Pasted image 20260110173049.png",
+    "Quick Notes/Attachments/Pasted image 20260110173049.png",
     "Polished Docs/C++/DirectX 12/Subpages/Attachments/DirectX 12 Pipeline Graph.png",
     "Polished Docs/C++/DirectX 11/SubPages/Attachments/Pasted image 20260101214728.png",
     "Pasted image 20260101212655.png",
