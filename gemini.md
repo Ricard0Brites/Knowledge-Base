@@ -11,12 +11,13 @@ The organizational principle is based on nested topics. Each topic or sub-topic 
 The standard structure is as follows:
 
 -   `Topic/`: The top-level folder for a subject (e.g., `C++`, `Design`).
--   `Topic/Topic.md`: The main entry-point file for the subject, linking to its sub-topics.
--   `Topic/*`: Any subtopic should follow the above structure (eg: `Topic/Subtopic/Subtopic.md` & `Topic/Subtopic/*` ).
--   `Topic/Subpages`: Any note thats related to Topic should reside here.
--   `Topic/Subpages/*`: Optionally folders can be created to keep clear separation of the information regarding Topic. 
+-   `Topic/Topic.md`: The main entry-point file for the subject. This file should contain a `waypoint` to automatically generate a list of sub-topics.
+-   `Topic/Subtopic/`: A folder for a sub-topic.
+-   `Topic/Subtopic/Subtopic.md`: The main file for the sub-topic. This file should also contain a `waypoint`.
+-   `Topic/Subtopic/Subpages/`: A folder containing the atomized notes for the sub-topic.
+-   `Topic/Subtopic/Subpages/*.md`: The atomized notes, broken down into individual files for each specific concept.
 
-This system allows for deep, recursive organization of information.
+This system allows for deep, recursive organization of information and promotes the creation of atomic notes.
 
 ## Updating Existing Notes
 If a note in `Quick Notes` has a corresponding note in `Polished Docs`, but the quick note contains additional information, the polished note should be edited to add the missing information in a clean, organised, and pretty manner.
