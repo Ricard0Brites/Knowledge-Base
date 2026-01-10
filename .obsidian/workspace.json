@@ -6,6 +6,7 @@
       {
         "id": "5eefb005c6056151",
         "type": "tabs",
+        "dimension": 43.869936034115135,
         "children": [
           {
             "id": "0094c7e749202250",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polished Docs/C++/DirectX 12/Types/DXGI_MWA_FLAGS.md",
+                "file": "Quick Notes/Descriptor Heap.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DXGI_MWA_FLAGS"
+              "title": "Descriptor Heap"
             },
             "group": "e9fd6a19356a3c84"
           }
@@ -27,6 +28,7 @@
       {
         "id": "00c1da412eea48f0",
         "type": "tabs",
+        "dimension": 56.13006396588486,
         "children": [
           {
             "id": "38c519b2478c5a09",
@@ -34,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polished Docs/C++/DirectX 12/Types/DXGI_MWA_FLAGS.md",
+                "file": "Quick Notes/Descriptor Heap.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DXGI_MWA_FLAGS"
+              "title": "Descriptor Heap"
             },
             "group": "e9fd6a19356a3c84"
           }
@@ -100,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1473b0e3668b472",
@@ -232,18 +235,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 1563,
-        "y": 337,
+        "x": 2559,
+        "y": 173,
         "width": 777,
         "height": 992,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "6b02a484901e2860",
+  "active": "0094c7e749202250",
   "lastOpenFiles": [
+    "Quick Notes/Attachments/Pasted image 20260110173049.png",
+    "Quick Notes/Attachments",
     "Polished Docs/C++/DirectX 12/Types/DXGI_MWA_FLAGS.md",
+    "Quick Notes/Descriptor Heap.md",
     "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/Code Structure.md",
     "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/How to Compile and Run.md",
     "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages/OnInit - DirectX 12 Initialization.md",
@@ -269,8 +275,6 @@
     "Quick Notes/Type - IDXGI Adapters.md",
     "Polished Docs/C++/DirectX 12/Subpages/Views.md",
     "README.md",
-    "Polished Docs/C++/DirectX 12/Subpages/Views/Constant Buffer View (CBV).md",
-    "Polished Docs/C++/DirectX 12/Subpages/Views/Depth Stencil View (DSV).md",
     "Polished Docs/C++/DirectX 12/Subpages/Views",
     "Polished Docs/C++/Standard Library (std)/Containers",
     "Polished Docs/Math/Matrix/Subpages",
@@ -278,7 +282,6 @@
     "Polished Docs/Math/Matrix",
     "Polished Docs/C++/Standard Library (std)/Pointers",
     "Polished Docs/C++/DirectX 12/DX12 Triangle/DX12Triangle.cpp",
-    "Polished Docs/C++/DirectX 12/DX12 Triangle/Subpages",
     "Polished Docs/C++/DirectX 12/Subpages/Attachments/DirectX 12 Pipeline Graph.png",
     "Polished Docs/C++/DirectX 11/SubPages/Attachments/Pasted image 20260101214728.png",
     "Pasted image 20260101212655.png",
