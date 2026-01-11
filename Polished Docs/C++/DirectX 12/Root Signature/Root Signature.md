@@ -1,6 +1,6 @@
 
 %% Begin Waypoint %%
-- [[Creation]]
 - [[Overview]]
+- [[Creation]]
 - [[Structure]]
 %% End Waypoint %%

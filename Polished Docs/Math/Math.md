@@ -6,7 +6,7 @@ This section contains notes on various mathematical topics, primarily as they ap
 ## Sub-topics
 
 %% Begin Waypoint %%
-- **[[Complex Numbers]]**
+- **[[Polished Docs/Math/Complex Numbers/Complex Numbers]]**
 - **[[Matrix]]**
 - **[[Quaternions]]**
 - **[[Vector]]**

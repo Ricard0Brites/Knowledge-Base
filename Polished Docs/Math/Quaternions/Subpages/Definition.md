@@ -3,7 +3,7 @@
 
 # What are Quaternions?
 
-Quaternions are a number system that extends [[Complex Numbers|complex numbers]]. In 3D graphics and other applications, they are primarily used to represent rotations. They offer several advantages over other rotation representations like Euler angles and rotation matrices.
+Quaternions are a number system that extends [[Polished Docs/Math/Complex Numbers/Complex Numbers|complex numbers]]. In 3D graphics and other applications, they are primarily used to represent rotations. They offer several advantages over other rotation representations like Euler angles and rotation matrices.
 
 A quaternion `q` is composed of a scalar part `w` and a vector part `(x, y, z)`. It can be written as:
 

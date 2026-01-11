@@ -4,44 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "5eefb005c6056151",
+        "id": "25ae0dd46adfc714",
         "type": "tabs",
         "children": [
           {
-            "id": "0094c7e749202250",
+            "id": "90c13f96088e20e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polished Docs/Math/Complex Numbers/Subpages/Operations/Division.md",
+                "file": "Quick Notes/Quaternion-vector multiplication (Code form).md",
                 "mode": "source",
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Division"
+              "title": "Quaternion-vector multiplication (Code form)"
             },
-            "group": "c106c0c89192e0ef"
+            "group": "7e6ffb351495458d"
           }
         ]
       },
       {
-        "id": "098385abc4070365",
+        "id": "18487cce4e361e92",
         "type": "tabs",
         "children": [
           {
-            "id": "add339dbd5626db4",
+            "id": "b75c0eee68bfd018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polished Docs/Math/Complex Numbers/Subpages/Operations/Division.md",
+                "file": "Quick Notes/Quaternion-vector multiplication (Code form).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Division"
+              "title": "Quaternion-vector multiplication (Code form)"
             },
-            "group": "c106c0c89192e0ef"
+            "group": "7e6ffb351495458d"
           }
         ]
       }
@@ -203,55 +204,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "add339dbd5626db4",
+  "active": "90c13f96088e20e9",
   "lastOpenFiles": [
+    "Quick Notes/Quaternion To Direction Vector.md",
+    "Quick Notes/Complex Numbers - Examples.md",
+    "Polished Docs/C++/DirectX 12/Root Signature/Subpages/Overview.md",
+    "Polished Docs/C++/DirectX 12/Root Signature/Root Signature.md",
+    "Polished Docs/C++/DirectX 12/Root Signature/Subpages/Creation.md",
+    "Quick Notes/Quaternion-vector multiplication (Code form).md",
+    "Quick Notes/Quaternion-vector multiplication (engine-friendly form).svg",
+    "Excalidraw/Drawing 2026-01-11 02.57.17.md",
+    "Excalidraw/Drawing 2026-01-11 02.57.17.svg",
+    "Excalidraw/Drawing 2026-01-11 02.45.29.md",
+    "Excalidraw/Drawing 2026-01-11 02.45.29.svg",
+    "Quick Notes/Drawing 2026-01-11 02.44.38.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Drawing 2026-01-11 01.54.30.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/Drawing 2026-01-11 01.50.14.excalidraw.md",
+    "Excalidraw",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Normalization.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Multiplication.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Magnitude.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Inverse.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Conjugate.md",
+    "Polished Docs/Math/Complex Numbers/Subpages/Operations/Division.md",
     "Polished Docs/Math/Complex Numbers/Subpages/Operations/Addition.md",
     "Polished Docs/Math/Complex Numbers/Subpages/Overview.md",
     "Polished Docs/Math/Complex Numbers/Subpages/Forms.md",
     "Polished Docs/Math/Complex Numbers/Subpages/Complex Conjugate and Modulus.md",
-    "Polished Docs/Math/Complex Numbers/Subpages/Operations/Division.md",
     "Polished Docs/Math/Complex Numbers/Subpages/Operations/Multiplication.md",
     "Polished Docs/Math/Complex Numbers/Subpages/Operations/Subtraction.md",
     "Polished Docs/Math/Complex Numbers/Subpages/Operations",
     "Polished Docs/Math/Complex Numbers/Complex Numbers.md",
-    "Polished Docs/Math/Quaternions/Quaternions.md",
     "Polished Docs/Math/Complex Numbers/Subpages",
     "Polished Docs/Math/Complex Numbers",
-    "Polished Docs/Math/Quaternions/Subpages/Rotation.md",
-    "Polished Docs/Math/Quaternions/Subpages/Definition.md",
-    "Polished Docs/Math/Quaternions/Subpages/Conversion to Rotation Matrix.md",
-    "Polished Docs/Math/Quaternions/Subpages/Conversion from Rotation Matrix.md",
-    "Polished Docs/Math/Matrix/Matrix.md",
-    "Polished Docs/Math/Quaternions/Subpages/Operations/Inverse.md",
-    "Polished Docs/Math/Quaternions/Subpages/Operations/Normalization.md",
-    "Polished Docs/Math/Quaternions/Subpages/Operations/Magnitude.md",
-    "Polished Docs/Math/Quaternions/Subpages/Operations/Conjugate.md",
-    "Polished Docs/Math/Quaternions/Subpages/Operations/Multiplication.md",
-    "Polished Docs/Math/Quaternions/Subpages/Operations/Addition.md",
-    "Polished Docs/Math/Quaternions/Subpages/Advantages.md",
     "Polished Docs/Math/Quaternions/Subpages/Operations",
-    "Polished Docs/Math/Quaternions/Subpages/What Are Quaternions.md",
-    "Polished Docs/C++/DirectX 12/Root Signature/Subpages/Overview.md",
-    "Polished Docs/C++/DirectX 12/Pipeline State Object/Pipeline State Object.md",
-    "Polished Docs/C++/DirectX 12/Root Signature/Root Signature.md",
-    "Polished Docs/C++/DirectX 12/Bundle/Bundle.md",
     "Polished Docs/Math/Vector/Subpages",
     "Polished Docs/Math/Quaternions/Subpages",
     "Polished Docs/Math/Quaternions",
-    "Polished Docs/Math/Matrix/Subpages",
-    "Polished Docs/Design/UML/Subpages",
-    "Polished Docs/Design/OOP/Subpages",
     "Polished Docs/C++/DirectX 12/Attachments/Pasted image 20260110173049.png",
     "Polished Docs/C++/DirectX 12/Attachments/DirectX 12 Pipeline Graph.png",
     "Polished Docs/C++/DirectX 11/Attachments/Pasted image 20260101214728.png",
     "Polished Docs/C++/DirectX 12/Subpages/Attachments/Pasted image 20260110173049.png",
     "Quick Notes/Attachments/Pasted image 20260110173049.png",
-    "Polished Docs/C++/DirectX 12/Subpages/Attachments/DirectX 12 Pipeline Graph.png",
-    "Polished Docs/C++/DirectX 11/SubPages/Attachments/Pasted image 20260101214728.png",
-    "Pasted image 20260101212655.png",
     "Untitled.canvas"
   ]
 }
