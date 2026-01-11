@@ -1,8 +1,7 @@
----
 # Object-Oriented Programming (OOP)
 
 This section covers topics related to Object-Oriented Programming.
 
-## Sub-topics
-
-- [[RAII - Resource Acquisition Is Initialization]]
+%% Begin Waypoint %%
+- [[Subpages/RAII - Resource Acquisition Is Initialization.md]]
+%% End Waypoint %%

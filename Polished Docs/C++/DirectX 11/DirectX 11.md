@@ -2,9 +2,10 @@
 
 This section contains notes on the DirectX 11 API.
 
-## Sub-topics
+%% Begin Waypoint %%
+- [[Subpages/DirectX 11 Pipeline.md]]
 
-- [[SubPages/DirectX 11 Pipeline]]
+%% End Waypoint %%
 
 ---
 #API #Windows

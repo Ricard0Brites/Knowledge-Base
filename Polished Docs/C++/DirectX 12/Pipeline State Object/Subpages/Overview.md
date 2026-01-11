@@ -1,4 +1,4 @@
-# Pipeline State Object Overview
+# Pipeline State Object (PSO)
 
 A **Pipeline State Object (PSO)** is a fundamental concept in DirectX 12 that unifies a large portion of the graphics pipeline into a single, immutable object. In older APIs like DirectX 11, states like shaders, blend settings, and rasterizer configurations were set independently, leading to significant CPU overhead.
 

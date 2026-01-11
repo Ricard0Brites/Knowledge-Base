@@ -7,16 +7,14 @@ This section contains notes on the DirectX 12 API.
 %% Begin Waypoint %%
 - **[[Bundle]]**
 - **[[Command List]]**
-- **Command Recording**
-	- [[Command Recording and Reuse]]
+- **[[Command Recording]]**
 - **[[Descriptor Heap]]**
-- [[DirectX 12]]
-- **[[DX12 Triangle]]**
 - **[[HLSL Operations]]**
 - **[[Pipeline]]**
 - **[[Pipeline State Object]]**
 - **[[Root Signature]]**
 - **[[Types]]**
 - **[[Views]]**
+- [[DirectX 12]]
 
 %% End Waypoint %%

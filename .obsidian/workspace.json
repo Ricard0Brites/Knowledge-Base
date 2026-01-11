@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polished Docs/C++/DirectX 12/Command Recording/Command Recording and Reuse.md",
+                "file": "Polished Docs/Math/Complex Numbers/Subpages/Operations/Division.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Command Recording and Reuse"
+              "title": "Division"
             },
             "group": "c106c0c89192e0ef"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polished Docs/C++/DirectX 12/Command Recording/Command Recording and Reuse.md",
+                "file": "Polished Docs/Math/Complex Numbers/Subpages/Operations/Division.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Command Recording and Reuse"
+              "title": "Division"
             },
             "group": "c106c0c89192e0ef"
           }
@@ -206,79 +206,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "floating": {
-    "id": "001fe15aa4025d23",
-    "type": "floating",
-    "children": [
-      {
-        "id": "52a2cb7b99357375",
-        "type": "window",
-        "children": [
-          {
-            "id": "4a64cd27ffd754ea",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fecf3ca60323cd84",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 795,
-        "y": 17,
-        "width": 729,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0094c7e749202250",
+  "active": "add339dbd5626db4",
   "lastOpenFiles": [
-    "Polished Docs/C++/DirectX 12/Command List/Command List.md",
-    "Polished Docs/C++/DirectX 12/Bundle/Subpages/Overview.md",
-    "README.md",
-    "Polished Docs/C++/DirectX 12/Pipeline State Object/Subpages/Creation and Usage.md",
-    "Polished Docs/C++/DirectX 12/Pipeline State Object/Subpages/Contents.md",
-    "Polished Docs/C++/DirectX 12/Pipeline State Object/Subpages/Overview.md",
-    "Polished Docs/C++/DirectX 12/Pipeline State Object/Subpages",
-    "Polished Docs/C++/DirectX 12/Root Signature/Subpages/Creation.md",
-    "Polished Docs/C++/DirectX 12/Root Signature/Subpages/Structure.md",
+    "Polished Docs/Math/Complex Numbers/Subpages/Operations/Addition.md",
+    "Polished Docs/Math/Complex Numbers/Subpages/Overview.md",
+    "Polished Docs/Math/Complex Numbers/Subpages/Forms.md",
+    "Polished Docs/Math/Complex Numbers/Subpages/Complex Conjugate and Modulus.md",
+    "Polished Docs/Math/Complex Numbers/Subpages/Operations/Division.md",
+    "Polished Docs/Math/Complex Numbers/Subpages/Operations/Multiplication.md",
+    "Polished Docs/Math/Complex Numbers/Subpages/Operations/Subtraction.md",
+    "Polished Docs/Math/Complex Numbers/Subpages/Operations",
+    "Polished Docs/Math/Complex Numbers/Complex Numbers.md",
+    "Polished Docs/Math/Quaternions/Quaternions.md",
+    "Polished Docs/Math/Complex Numbers/Subpages",
+    "Polished Docs/Math/Complex Numbers",
+    "Polished Docs/Math/Quaternions/Subpages/Rotation.md",
+    "Polished Docs/Math/Quaternions/Subpages/Definition.md",
+    "Polished Docs/Math/Quaternions/Subpages/Conversion to Rotation Matrix.md",
+    "Polished Docs/Math/Quaternions/Subpages/Conversion from Rotation Matrix.md",
+    "Polished Docs/Math/Matrix/Matrix.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Inverse.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Normalization.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Magnitude.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Conjugate.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Multiplication.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations/Addition.md",
+    "Polished Docs/Math/Quaternions/Subpages/Advantages.md",
+    "Polished Docs/Math/Quaternions/Subpages/Operations",
+    "Polished Docs/Math/Quaternions/Subpages/What Are Quaternions.md",
     "Polished Docs/C++/DirectX 12/Root Signature/Subpages/Overview.md",
-    "Polished Docs/C++/DirectX 12/Root Signature/Subpages",
-    "Polished Docs/C++/DirectX 12/HLSL Operations/Subpages/Scalar Operations.md",
-    "Polished Docs/C++/DirectX 12/HLSL Operations/Subpages/Vector Operations.md",
-    "Polished Docs/C++/DirectX 12/HLSL Operations/Subpages/Matrix Operations.md",
-    "Polished Docs/C++/DirectX 12/HLSL Operations/Subpages",
-    "Polished Docs/C++/DirectX 12/Descriptor Heap/Subpages/Core Concept.md",
-    "Polished Docs/C++/DirectX 12/Descriptor Heap/Subpages/D3D12_DESCRIPTOR_HEAP_DESC.md",
-    "Polished Docs/C++/DirectX 12/Command Recording/Command Recording and Reuse.md",
-    "Polished Docs/C++/DirectX 12/Descriptor Heap/Subpages/Descriptor Types.md",
-    "Polished Docs/C++/DirectX 12/Descriptor Heap/Subpages/D3D12_DESCRIPTOR_HEAP_TYPE.md",
-    "Polished Docs/C++/DirectX 12/Descriptor Heap/Subpages/Overview.md",
-    "Polished Docs/C++/DirectX 12/Descriptor Heap/Subpages",
-    "Polished Docs/C++/DirectX 12/Command List/Subpages/Types of Command Lists.md",
-    "Polished Docs/C++/DirectX 12/Command List/Subpages/Recording and Execution.md",
-    "Polished Docs/C++/DirectX 12/Command List/Subpages/Overview.md",
-    "Polished Docs/C++/DirectX 12/Command List/Subpages",
-    "Polished Docs/C++/DirectX 12/Bundle/Subpages/Restrictions.md",
-    "Polished Docs/C++/DirectX 12/Bundle/Subpages/State Inheritance.md",
-    "Polished Docs/C++/DirectX 12/Bundle/Subpages",
     "Polished Docs/C++/DirectX 12/Pipeline State Object/Pipeline State Object.md",
     "Polished Docs/C++/DirectX 12/Root Signature/Root Signature.md",
     "Polished Docs/C++/DirectX 12/Bundle/Bundle.md",
-    "Polished Docs/C++/DirectX 12/Pipeline State Object",
-    "Polished Docs/C++/DirectX 12/Root Signature",
-    "Polished Docs/C++/DirectX 12/Bundle",
-    "Polished Docs/C++/DirectX 12/Command List",
+    "Polished Docs/Math/Vector/Subpages",
+    "Polished Docs/Math/Quaternions/Subpages",
+    "Polished Docs/Math/Quaternions",
+    "Polished Docs/Math/Matrix/Subpages",
+    "Polished Docs/Design/UML/Subpages",
+    "Polished Docs/Design/OOP/Subpages",
     "Polished Docs/C++/DirectX 12/Attachments/Pasted image 20260110173049.png",
     "Polished Docs/C++/DirectX 12/Attachments/DirectX 12 Pipeline Graph.png",
     "Polished Docs/C++/DirectX 11/Attachments/Pasted image 20260101214728.png",

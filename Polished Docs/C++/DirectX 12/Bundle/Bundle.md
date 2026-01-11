@@ -1,4 +1,3 @@
-# Bundle
 
 %% Begin Waypoint %%
 - [[Overview]]

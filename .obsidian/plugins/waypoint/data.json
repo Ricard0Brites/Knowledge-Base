@@ -4,7 +4,7 @@
   "stopScanAtFolderNotes": true,
   "showFolderNotes": true,
   "showNonMarkdownFiles": true,
-  "foldersOnTop": false,
+  "foldersOnTop": true,
   "debugLogging": false,
   "useWikiLinks": true,
   "useFrontMatterTitle": false,

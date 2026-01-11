@@ -1,4 +1,3 @@
-# Root Signature
 
 %% Begin Waypoint %%
 - [[Creation]]
